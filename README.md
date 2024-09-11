@@ -30,23 +30,18 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the sales data to answer key questions, such as:
 - What is the Overall Revenue trend?
 - What is the Overall Profit trend?
-- What is the Total Customer Trend?
-- What is the Total Sales/Target Sales relationship?
-- Customer and Sales per region.
+- What is the Total Cash Trend?
+- What is the Actual Profit Vs. Budget relationship?
+- Profit for various Apps in relation to PY and Budget
+- % change in present year and budget to revenue, profit, cash
 
 ## Results/Findings
 The analysis results are summarized as follows:
-1. The Company sales experience an increase and later a drop at the close of the period
-2. The month of May generated the highest sale, while January generated the lowest sales
-3. Columbia has the highest customers, while Brazil has the least customers
-4. Chicago is the region with the highest sales generated.
-5. There was increase in customer for each month and september recorded the highest customer. 
+1.  
 
 ## Recommendations
 Based on the analysis, I recommend the following actions:
-- Invest in marketing and promotion during the sales seasons to maximize revenue.
-- Focus on expanding and promoting sales in
-- Implement a customer segmentation strategy to target high LTV customer effectively.
+- 
 
 ## Limitations
 I had to remove all zero values from sales and customers column because they would affect the accuracy of my conclusion from the analysis.
